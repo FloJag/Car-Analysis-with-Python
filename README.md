@@ -19,8 +19,6 @@ Before you run notebook, please download the dataset and insert it into the note
 
 ## 🛠️ Methodology and Steps
 
-The analysis follows a standard, rigorous EDA workflow, as documented in the accompanying Jupyter Notebook (`Car_Analysis_with_Python (1).ipynb`):
-
 1.  **Data Cleaning & Preprocessing:**
     * Handling of missing values (e.g., imputation for `Market Category`, removal of rows with missing critical numeric data).
     * Standardization of column names.
